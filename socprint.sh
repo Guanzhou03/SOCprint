@@ -29,7 +29,7 @@
 
 set -euf
 export LC_ALL=C
-host='sunfire.comp.nus.edu.sg'
+host='stu.comp.nus.edu.sg'
 default_script='/usr/local/bin/socprint.sh'
 
 usage() {
